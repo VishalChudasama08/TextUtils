@@ -75,7 +75,7 @@ A **React.js** application designed to help you efficiently manage and format te
 ## Screenshots
 
 ### Text Analysis
-![Main Page Screenshot](textutlis_main.png)
+![Main Page Screenshot](textutlis.png)
 
 ### Dark Mode
 ![Dark Mode Screenshot](dark_mode.png)
